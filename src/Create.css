@@ -1,0 +1,29 @@
+.create {
+  margin-top: 1rem;
+}
+
+.create__form {
+    width: 100%;
+    /* background-color: transparent; */
+
+}
+
+
+.create__form_title {
+    width: 100%;
+    /* outline: none !important; */
+margin-bottom: 0.5rem !important;
+}
+
+.create__form_title>input:focus{
+    /* background-color: red !important; */
+}
+
+.create__btn {
+    /* width: 100%; */
+    /* background-color: #53DCFD !important; */
+}
+
+
+
+
